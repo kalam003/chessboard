@@ -1,0 +1,31 @@
+
+html{
+    background-color: rgb(216, 33, 33);
+}
+body{
+    background-color:rgb(243, 237, 237);
+    height:800px;
+    width:800px;
+    margin:auto;
+    margin-top:30px;
+    
+}
+.row{
+    
+    width:100px;
+    height:100px;
+    float:left;
+}
+.box{
+    background-color:rgb(243, 237, 237);
+    height:100px;
+    width:100px;
+
+
+}
+.black{
+    background-color:rgb(17, 17, 17);
+    height:100px;
+    width:100px;
+
+}
